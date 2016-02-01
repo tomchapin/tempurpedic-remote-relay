@@ -1,3 +1,4 @@
+require_relative 'naughty_ssl_fix'
 require 'yaml'
 require 'particle'
 require 'pry'

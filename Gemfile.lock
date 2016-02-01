@@ -19,10 +19,11 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   particlerb (~> 1.1.0)
   pry
 
 BUNDLED WITH
-   1.11.1
+   1.11.2
